@@ -1,0 +1,34 @@
+body{
+    font-family: 'Arima', cursive;
+    background-image: src;
+}
+h1{
+    font-size: 55px;
+}
+span{
+    color: orange;
+}
+h3{
+    font-size: 25px;
+}
+.tex{
+    font-family: cursive;
+    font-size: 19px;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 0% 5%;
+}
+.half-width img{
+    width: 80%;
+}
+.hareME{
+    background-image: linear-gradient(orange, tomato);
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+}
