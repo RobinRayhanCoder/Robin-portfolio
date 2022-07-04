@@ -1,6 +1,7 @@
 body{
     font-family: 'Arima', cursive;
-    background-image: src;
+    background-image: url(./img/top-banner.png);
+ 
 }
 h1{
     font-size: 55px;
